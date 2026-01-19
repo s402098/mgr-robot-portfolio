@@ -6,4 +6,5 @@ Prototyp robota wspinaczkowego z architekturą **Raspberry Pi 4B + ESP32**, kame
 ## Demo
 
 - GIF:  
-  ![demo](assets/demo.gif)
+  ![demo](Assets/gif_porownanie.gif)
+  ![demo](Assets/porownanie3dobre.gif)
