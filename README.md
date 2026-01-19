@@ -15,4 +15,4 @@ Schemat blokowy przedstawiający architekturę elektroniczną:
 
 ## Projekt 3D
 Render złożenia projektu robota wykonanego w Autodesk Inventor:
-	![render](Autodesk Inventor Renders/View1 (2).png)
+	![render](<Autodesk Inventor Renders/View1 (2).png>)
