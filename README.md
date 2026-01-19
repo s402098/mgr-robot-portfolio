@@ -5,14 +5,14 @@ Celem pracy było zaprojektowanie i wykonanie autonomicznego robota wspinaczkowe
 
 ## Efekt końcowy
 Poniżej na gifie widać test wspinaczki autonomicznej (zakończoną niepowodzeniem) oraz zsynchronizowany widok interfejsu użytkownika.
-	![demo](Assets/gif_porownanie.gif)
+	![gif_UI](Assets/gif_porownanie.gif)
 A tutaj już kilka prób udanych na różnych trasach.
-	![demo](Assets/porownanie3dobre.gif)
+	![gif_3_dobre](Assets/porownanie3dobre.gif)
 
 ## Architektura elektroniczna
 Schemat blokowy przedstawiający architekturę elektroniczną:
-	![demo](Assets/schemat_blokowy_elektro.png)
+	![schemat_blokowy_elektronika](Assets/schemat_blokowy_elektro.png)
 
 ## Projekt 3D
 Render złożenia projektu robota wykonanego w Autodesk Inventor:
-	![demo](Autodesk Inventor Renders/View1 (2).png)
+	![render](Autodesk Inventor Renders/View1 (2).png)
